@@ -1,0 +1,6 @@
+function convertToInteger(str) {
+    //10011 is binary 
+    return parseInt(str, 2);
+}
+
+convertToInteger("10011");
